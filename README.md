@@ -14,6 +14,23 @@ version 0
     uint16 -- number of bytes in the payload
     byte[] -- the payload (arbitrary length array of bytes, may be empty)
 
+## Maven
+--------
+
+    <project>
+      <dependencies>
+        <dependency>
+          <groupId>com.creeaaakk</groupId>
+          <artifactId>chump</artifactId>
+          <version>x.x.x</version>
+        </dependency>
+      </dependencies>
+    </project>
+
+Versions:
+
+- 0.0.1 (current)
+
 ## Implementations
 ------------------
 
